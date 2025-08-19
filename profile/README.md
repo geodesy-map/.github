@@ -37,7 +37,7 @@ Les contributions sont les bienvenues !
 - Faites vos changements
 - Proposez une Pull Request
 
-__ou contactez simplement l'administrateur pour proposer une nouvelle feature
+__ou contactez simplement l'administrateur pour proposer une nouvelle feature__
 
 ---
 
