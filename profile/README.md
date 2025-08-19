@@ -10,7 +10,7 @@ Nous développons et maintenons des outils et applications web pour la gestion c
 ## 📌 Nos projets principaux
 
 - [`resmap2`](https://github.com/geodesy-map/resmap2) — Application web de visualisation de réseaux géodésiques.
-- [`resmap2-marketing`](https://github.com/geodesy-map/resmap2-marketing) — Ressources graphiques et marketing.
+- [`resmap2-marketing`](https://github.com/geodesy-map/resmap2-marketing) — Ressources graphiques et marketing pour le projet resmap2
 
 ---
 
@@ -22,6 +22,13 @@ Nous développons et maintenons des outils et applications web pour la gestion c
 
 ---
 
+## 🚧 TODO
+
+- `MesMap`: Application web pour la saisie de points, de mesures et préanalyse de réseaux topométriques/géodésiques
+- `Utils`: Application web regroupant des utilitaires de gestion de fichier LTOP (fusion de fichiers de mesures, fusion de fichiers de coordonnées, transformation geoJSON en .MES ou .KOO, ...), ...
+
+---
+
 ## 👥 Contribuer
 
 Les contributions sont les bienvenues !  
@@ -29,6 +36,8 @@ Les contributions sont les bienvenues !
 - Créez une branche
 - Faites vos changements
 - Proposez une Pull Request
+
+__ou contactez simplement l'administrateur pour proposer une nouvelle feature
 
 ---
 
