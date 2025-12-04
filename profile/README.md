@@ -9,8 +9,9 @@ Nous développons et maintenons des outils et applications web pour la gestion c
 
 ## 📌 Nos projets principaux
 
-- [`resmap2`](https://github.com/geodesy-map/resmap2) — Application web de visualisation de réseaux géodésiques.
-- [`resmap2-marketing`](https://github.com/geodesy-map/resmap2-marketing) — Ressources graphiques et marketing pour le projet resmap2
+- [`resmap2-web-app`](https://github.com/geodesy-map/resmap2-web-app) — Application web de visualisation de réseaux géodésiques.
+- [`resmap2-web-doc`](https://github.com/geodesy-map/resmap2-web-doc) — Application web de documentation et explications liés au site [`resmap2.ch`](https://resmap2.ch).
+- [`resmap2-addin-notepadplusplus`](https://github.com/geodesy-map/resmap2-addin-notepadplusplus) — Plugin pour le logiciel Notepad++ permettant d'ouvrir directement le fichier `.PRNx` dans le site [`resmap2.ch`](https://resmap2.ch).
 
 ---
 
